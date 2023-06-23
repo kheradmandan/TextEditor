@@ -33,14 +33,14 @@ namespace Editor
             if (result == DialogResult.OK)
             {
                 string extension = Path.GetExtension(opendialog.FileName);
-                if (extension == "txt")
+                if (extension == ".txt")
                 {
-
+                    EditorRichTextBox.LoadFile(opendialog.FileName, RichTextBoxStreamType.PlainText);
                 }
                 else
                 {
-
-                    MessageBox.Show(extension);
+                    MessageBox.Show("لطفا فایل متنی انتخاب کنید");
+                    //EditorRichTextBox.LoadFile(opendialog.FileName, RichTextBoxStreamType.RichText);
                 }
 
 

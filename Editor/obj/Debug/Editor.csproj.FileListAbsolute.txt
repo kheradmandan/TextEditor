@@ -7,3 +7,12 @@ C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.Properties.Resources.reso
 C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
 C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.exe
 C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\bin\Debug\Editor.exe.config
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\bin\Debug\Editor.exe
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\bin\Debug\Editor.pdb
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\obj\Debug\Editor.exe
+C:\Users\ASUS\Downloads\Compressed\New folder\Editor\obj\Debug\Editor.pdb
