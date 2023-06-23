@@ -42,6 +42,10 @@ namespace Editor
 
 
             }
+            else
+            {
+                MessageBox.Show("لطفا فایل متنی انتخاب بفرمایید");
+            }
 
         }
 
