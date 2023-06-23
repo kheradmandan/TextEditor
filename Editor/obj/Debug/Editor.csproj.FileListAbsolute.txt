@@ -1,0 +1,9 @@
+C:\D\camp\Tamrin\Editor\Editor\Editor\bin\Debug\Editor.exe.config
+C:\D\camp\Tamrin\Editor\Editor\Editor\bin\Debug\Editor.exe
+C:\D\camp\Tamrin\Editor\Editor\Editor\bin\Debug\Editor.pdb
+C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
+C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.exe
+C:\D\camp\Tamrin\Editor\Editor\Editor\obj\Debug\Editor.pdb
